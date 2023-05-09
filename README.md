@@ -5,7 +5,7 @@ a restfull app that allows you to manage all of your employees created using MER
 
 
 ###  creating employees
-<img src="images/create.pdf" >
+<img src="images/create.png" >
 
 ### deleting employees
 
